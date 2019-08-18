@@ -1,12 +1,12 @@
 ---
 layout: post
-title: test
-date: 2013-07-16
-Author: Shengbin 
-tags: [sample, markdown]
+title: LOFFER文档
+date: 2019-06-02
+Author: 来自中世界
+categories: 
+tags: [sample, document]
 comments: true
-toc: true
----
+--- 
 ## test
 
 
