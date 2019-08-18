@@ -3,7 +3,6 @@
     title: 竞品分析报告：网易云音乐 vs QQ音乐
     date: 2019-08-16
     Author: kelo
-    categories: 
     tags: [sample, document]
     comments: true
  --- 
