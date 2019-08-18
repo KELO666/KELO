@@ -59,11 +59,11 @@
 
 （1）网易云音乐
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\2019-08-17_163622.png)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/2.png)
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\2019-08-17_163643.png)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/3.png)
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\2019-08-17_163825.png)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/4.png)
 
 可以看出：
 
@@ -73,11 +73,11 @@
 
 （2）QQ音乐
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\2019-08-17_163235.png)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/5.png)
 
-![2019-08-17_163314](D:\学习使我快乐\Typora笔记区\PM\img\2019-08-17_163314.png)
+![2019-08-17_163314](https://github.com/KELO666/KELO666.github.io/blob/master/images/6.png)
 
-![2019-08-17_163423](D:\学习使我快乐\Typora笔记区\PM\img\2019-08-17_163423.png)
+![2019-08-17_163423](https://github.com/KELO666/KELO666.github.io/blob/master/images/7.png)
 
 可以看出：
 
@@ -91,23 +91,23 @@
 
 （1）网易云音乐
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\网易云音乐产品结构图.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/网易云音乐产品结构图.jpg)
 
 
 
 （2）QQ音乐
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\QQ音乐产品结构图.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/QQ音乐产品结构图.jpg)
 
 #### 4、功能范围
 
 ##### （1）播放音乐
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\网易云播放.JPG)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/网易云播放.JPG)
 
 ​																	                 网易云播放页
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\QQ音乐播放页.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/QQ音乐播放页.jpg)
 
 ​																						QQ音乐播放页
 
@@ -120,11 +120,11 @@
 
 ##### （2）评论
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\99846FAB5D89A5B854C5D5FBE75096BD.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/8.png)
 
 ​																						网易云音乐
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\4AE47989E533FE2F63177451F4EC0A90.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/9.png)
 
 ​																						QQ音乐
 
@@ -137,11 +137,11 @@
 
 ##### （3）电台
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\5956C4FCFF3BD4DDF79D55E9D25D753A.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/10.png)
 
 ​																						网易云音乐
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\A7178F2C0B3322BE56466602465CF9C5.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/11.png)
 
 ​																					     QQ音乐
 
@@ -152,11 +152,11 @@
 
 ##### （4）直播/一起听
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\A1569E6FB73636FC3A3D2358D9541A3C.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/12.png)
 
 ​																						网易云音乐
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\A8A24FC8CF09170AC047DEFB1D9AF14E.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/13.png)
 
 ​																							QQ音乐
 
@@ -171,7 +171,7 @@
 
 ① 每日推荐、私人FM
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\04B3EEC2.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/14.png)
 
 日推和私人FM主要得益于网易云强大的智能算法，网易云音乐的推荐都是根据用户的听歌习惯、收藏歌单情况和评价情况等数据来进行大数据分析后实现智能精准推荐。歌曲的最新评论里经常有用户表示对网易云音乐日推歌曲的喜欢和惊喜，纷纷表示“网易云音乐很懂我”。而每天6:00更新的“每日推荐”歌单准时上线也会给用户带来音乐平台的归属感。这功能让用户听歌的数量增高，一定程度上弥补了音乐版权少的短板，毕竟日推和私人FM对于没有明确歌曲需求的用户是绰绰有余的。
 
@@ -183,7 +183,7 @@
 
 ② 付费电台、小冰电台
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\47B0584EC120546A60169.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/15.png)
 
 小冰电台是微软宣布和网易云音乐合作的人工智能互动电台，可以随时收听小冰电台的内容，小冰电台内容是自动生成，并且支持聊天互动。小冰电台自己介绍歌曲相关信息并播放歌曲，歌曲内容其实是算法推荐生成，但是小冰电台支持语音聊天、语音点播，更接近以前人们听电台是拨打电话点歌的收听电台形式。
 
@@ -193,7 +193,7 @@
 
 ③ Sati空间
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\FD2F28ADF.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/16.png)
 
 主要有三个模式：分别是睡眠模式、专注模式、加压模式（戳破气泡、压碎玻璃）
 
@@ -203,7 +203,7 @@
 
 ④ 云村社区
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\9C6D1437336A2B47EE.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/17.png)
 
 云村社区是将【朋友】版块优化升级成社区，在朋友版块基础上新增【广场】版块，之前的【动态】版块依旧保留，可以看到关注人动态，排版页面没有发生改变，而广场版块由云村热评墙和用户动态构成，用户可以发布Mlog，以瀑布流的形式呈现在首页。
 
@@ -213,7 +213,7 @@
 
 ⑤ 网易云商城
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\35B3E5216F59.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/18.png)
 
 网易云音乐利用其网易电商的供应链优势为音乐用户提供音乐相关周边，商品种类丰富，数码影音、歌手周边、乐器等热门产品，带上网易云音乐这个品牌标志的产品让用户体验作为网易云音乐粉丝的待遇。
 
@@ -223,7 +223,7 @@ QQ音乐
 
 ① 主题中心
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\7D7A8C2FE98D7CCB.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/19.png)
 
 QQ音乐主打个性潮流，希望吸引更多年轻用户。个性装扮让用户自己定制播放器，满足个性化定制的需求。同时，装扮套装有会员与免费的区别，有用户付费购买的可能。定制内容上，QQ音乐利用其明星资源多的优势，提供明星相关装扮，满足年轻粉丝用偶像标榜自己的心理。
 
@@ -231,7 +231,7 @@ QQ音乐主打个性潮流，希望吸引更多年轻用户。个性装扮让用
 
 ② 明星评论
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\C0847DCF15EA.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/20.png)
 
 明星在自己歌曲下与粉丝的互动会出现在明星评论专区，增强粉丝与爱豆之间的互动，满足粉丝的追星满足感；也增强粉丝群体对QQ音乐的依赖性。
 
@@ -239,7 +239,7 @@ QQ音乐主打个性潮流，希望吸引更多年轻用户。个性装扮让用
 
 ③ 好友情报站
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\D9953D4FE.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/21.png)
 
 QQ音乐利用QQ的社交资源，向用户提供“好友情报站”功能，用户可以看到好友最近的听歌动态、好友常听歌单以及听歌口味相近好友排序等。把用户的社交需求与音乐结合，满足用户了解好友的听歌情况，让用户知道好友也在使用QQ音乐听歌当遇到歌慌的状态，好友的听歌动态可以给用户参考。
 
@@ -247,7 +247,7 @@ QQ音乐利用QQ的社交资源，向用户提供“好友情报站”功能，�
 
 ④ 综艺专区
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\54F18731B26.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/22.png)
 
 这是与QQ音乐独家合作的综艺专区，只有QQ音乐才有。音乐类综艺节目的歌曲和综艺节目粉丝互动（例如：给明日之子某某哥哥投票）都可以通过这个专区进行。通过购买热门IP综艺，不断地拉新用户参与，同时必须付费听歌，一边增强用户粘性，一边提高盈利收入。
 
@@ -267,7 +267,7 @@ QQ音乐利用QQ的社交资源，向用户提供“好友情报站”功能，�
 
 #### 5、页面交互设计
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\CCBFFC666C0968.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/23.png)
 
 ​																左：网易云音乐             右：QQ音乐
 
@@ -309,7 +309,7 @@ QQ音乐的每次打开APP展示的页面不固定，每次打开的首页是都
 
 #### SWOT分析
 
-![](D:\学习使我快乐\Typora笔记区\PM\img\2019-08-18_101345.png)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/24.png)
 
 
 
