@@ -309,7 +309,7 @@ QQ音乐的每次打开APP展示的页面不固定，每次打开的首页是都
 
 #### SWOT分析
 
-![](https://github.com/KELO666/KELO666.github.io/blob/master/images/24.jpg)
+![](https://github.com/KELO666/KELO666.github.io/blob/master/images/24.png)
 
 
 
